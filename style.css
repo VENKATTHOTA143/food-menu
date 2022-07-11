@@ -1,0 +1,21 @@
+h1 {
+  color: rebeccapurple;
+  font-size: 60px;
+}
+li a:hover {
+  background-color: rgb(27, 26, 29);
+}
+ul {
+  overflow: hidden;
+  background-color: rgb(145, 102, 194);
+}
+header li a {
+  display: block;
+  color: aliceblue;
+  padding: 8px 10px;
+}
+
+/* <img style="float: middle;"> */
+/* img {
+  text-align: center;
+} */
